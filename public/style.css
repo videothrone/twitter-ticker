@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+
+#ticker {
+    position: relative;
+    overflow: hidden;
+    height: 2.3em;
+}
+
+#headlines {
+    white-space: nowrap;
+    position: absolute;
+    padding-top: 10px;
+    left: 100%;
+    font-family: Courier New;
+    font-size: 0;
+}
+
+#headlines a:link {
+    padding-right: 35px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+#headlines a:active {
+    padding-right: 35px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+#headlines a:visited {
+    padding-right: 35px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+#headlines a:hover {
+    padding-right: 35px;
+    font-size: 20px;
+    text-decoration: underline;
+    color: blue;
+}
