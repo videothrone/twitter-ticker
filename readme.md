@@ -28,4 +28,4 @@ HTML, CSS, JavaScript ES6 / Promises, jQuery, Node / Express, Twitter API, AJAX,
 
 -   Learn using ES6 Promises
 
--   Use `requestAnimationFrame()` and `cancelAnimationFramen
+-   Use `requestAnimationFrame()` and `cancelAnimationFrame`
